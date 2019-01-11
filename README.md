@@ -8,6 +8,7 @@ This software is very beta. It was coded because I needed a program that did jus
 
 ## Usage
 `$ jpgextract filename`
+This can include a linux/unix/mac partition such as `/dev/dba0`
 
 ## Work In Progress
 I am working on `mediaextract` a more general purpose command line tool that allows you to extract various types of files such a jpg, png, mp4, gif, etc. I will keep you posted here. In the meantime, you are free to use this version (with no guarantees), as stated in the license.
